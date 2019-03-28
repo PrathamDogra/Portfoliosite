@@ -38,23 +38,14 @@
   color: black;
   margin-bottom: 20px;
   border: 1px solid white;
-  margin-left: 7em;
+  margin-left: 3em;
 }
 
 .contact-grid h2 {
   font-family: 'Anton', sans-serif;
 }
 
-/* .contact-grid p {
-  font-family: 'Oxygen', sans-serif;
-  font-weight: bold;
-}
 
-.contact-grid hr {
-  border-top: 5px dotted black;
-  width: 50%;
-  margin: auto;
-} */
 
 .contact-list i {
   font-size: 50px;
@@ -96,13 +87,14 @@
 .social-links i {
   color: white;
   font-size: 3em;
-  padding: 8px;
+  padding: 4px;
+ 
 }
 .about{
   border: 5px solid white;
   margin-top:10px;
-  margin-left:5em;
-  margin-right:5em;
+  
+  margin-top:4em;
   background: #27221F;
   border-radius: 20px;
   

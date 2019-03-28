@@ -69,7 +69,7 @@ class Projects extends Component {
 
             </CardText>
             <CardActions border>
-              <a href="https://github.com/PrathamDogra/Speech-to-text-converter">
+              <a href="https://github.com/PrathamDogra/Javascript-Tabs">
                 <Button colored>Project</Button>
 
               </a>
@@ -113,7 +113,7 @@ class Projects extends Component {
     return(
       <div className="projects-tabs">
         <Tabs activeTab={this.state.activeTab} onChange={(tabId) => this.setState({ activeTab: tabId })} ripple>
-          <Tab>Machine Learning</Tab>
+          <Tab>ML</Tab>
           <Tab>React</Tab>
           <Tab>JS</Tab>
           <Tab>Python</Tab>
