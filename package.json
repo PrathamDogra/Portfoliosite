@@ -2,7 +2,7 @@
   "name": "myportfoliosite",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://PrathamDogra.github.io",
+  "homepage": "https://PrathamDogra.github.io/home",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.2.0",
