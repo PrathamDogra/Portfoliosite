@@ -37,13 +37,15 @@
   background: white;
   color: black;
   margin-bottom: 20px;
+  border: 1px solid white;
+  margin-left: 7em;
 }
 
 .contact-grid h2 {
   font-family: 'Anton', sans-serif;
 }
 
-.contact-grid p {
+/* .contact-grid p {
   font-family: 'Oxygen', sans-serif;
   font-weight: bold;
 }
@@ -52,11 +54,11 @@
   border-top: 5px dotted black;
   width: 50%;
   margin: auto;
-}
+} */
 
 .contact-list i {
-  font-size: 66px;
-  padding-right: 5rem;
+  font-size: 50px;
+  padding-right: 3rem;
 }
 
 
@@ -73,15 +75,10 @@
 .banner-text h2 {
   font-size: 40px;
   font-weight: bold;
-  color: white;
-  padding-top:5px;
+  color: #ffffff;
+  padding-top:2rem;
 }
 
-.banner-text hr {
-  border-top: 5px dotted white;
-  width: 50%;
-  margin: auto;
-}
 
 .banner-text p {
   color: white;
@@ -98,22 +95,34 @@
 
 .social-links i {
   color: white;
-  font-size: 5em;
+  font-size: 3em;
   padding: 8px;
 }
 .about{
   border: 5px solid white;
   margin-top:10px;
-  margin-left:25%;
-  margin-right:25%;
+  margin-left:5em;
+  margin-right:5em;
+  background: #27221F;
+  border-radius: 20px;
+  
   
 }
+.about h1{
+  font-family: 'Anton', sans-serif;
+  color: white;
+}
 .about p{
-  font-family: sans-serif;
+  font-family: 'Oxygen', sans-serif;
   font-size: 15px;
+  color: white;
 }
 .about pre{
-  font-family: sans-serif;
+  font-family: 'Oxygen', sans-serif;
   font-size: 15px;
+  color: white;
 
+}
+.projects-tabs{
+  margin-top:2em;
 }

@@ -37,7 +37,7 @@ class Projects extends Component {
       )
     } else if(this.state.activeTab === 1) {
       return (
-        <div>
+        <div className="container">
           <Card shadow={0} style={{ width: '320px', height: '320px', margin: 'auto' }}>
             <CardTitle expand style={{ color: '#fff', background: 'url(https://cdn2.iconfinder.com/data/icons/designer-skills/128/react-512.png) center / cover' }}></CardTitle>
             <CardText>
@@ -111,11 +111,11 @@ class Projects extends Component {
 
   render() {
     return(
-      <div>
+      <div className="projects-tabs">
         <Tabs activeTab={this.state.activeTab} onChange={(tabId) => this.setState({ activeTab: tabId })} ripple>
           <Tab>Machine Learning</Tab>
           <Tab>React</Tab>
-          <Tab>Javascript</Tab>
+          <Tab>JS</Tab>
           <Tab>Python</Tab>
         </Tabs>
 
