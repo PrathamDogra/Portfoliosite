@@ -47,7 +47,7 @@ class Projects extends Component {
 
             </CardText>
             <CardActions border>
-              <a href="https://github.com/PrathamDogra/Year-vs-GDP-simple-linear-regression-">
+              <a href="https://github.com/PrathamDogra/PrathamDogra.github.io">
                 <Button colored>Project</Button>
 
               </a>
