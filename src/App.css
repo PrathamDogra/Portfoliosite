@@ -88,6 +88,7 @@
   color: white;
   font-size: 3em;
   padding: 4px;
+  margin-bottom: 1em;
  
 }
 .about{
@@ -118,3 +119,17 @@
 .projects-tabs{
   margin-top:2em;
 }
+.avatar-img{
+  width: 20em;
+  height: 20em;
+  background-image: url("components/me.jpeg");
+ 
+  border-radius: 50%;
+  background-size: cover;
+  display: inline-block;
+}
+
+.centre{
+text-align: center;
+}
+
