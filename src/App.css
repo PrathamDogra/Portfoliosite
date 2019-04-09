@@ -93,11 +93,11 @@
 }
 .about{
   border: 5px solid white;
-  margin-top:10px;
-  
   margin-top:4em;
   background: #27221F;
   border-radius: 20px;
+  margin-left: 1em;
+  margin-right: 1em;
   
   
 }
