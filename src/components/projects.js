@@ -47,7 +47,7 @@ class Projects extends Component {
 
             </CardText>
             <CardActions border>
-              <a href="https://github.com/PrathamDogra/PrathamDogra.github.io">
+              <a href="https://github.com/PrathamDogra/Portfoliosite">
                 <Button colored>Project</Button>
 
               </a>
